@@ -105,4 +105,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) pa
 
 ---
 
-Feito com 💜 por [Mateus Abelli](https://github.com/mateusabelli)
+Feito com 💜 por [Wesley Guerra(https://github.com/Wesleygmssa)
